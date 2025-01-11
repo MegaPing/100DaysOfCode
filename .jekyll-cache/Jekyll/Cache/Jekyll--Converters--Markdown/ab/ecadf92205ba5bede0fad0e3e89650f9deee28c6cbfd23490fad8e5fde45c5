@@ -1,0 +1,96 @@
+I"�<p>In this post, I will describe the rules I intend to follow during my #100DaysOfCode challenge.</p>
+
+<p><img src="https://i.postimg.cc/C1DBVBsy/Rulebook.jpg" alt="Rulebook.jpg" /></p>
+
+<h1 id="main-commitment">Main Commitment</h1>
+<h3 id="i-will-code-for-at-least-an-hour-every-day-for-the-next-100-days"><em>I will code for at least an hour every day for the next 100 days.</em></h3>
+
+<h2 id="my-plan-for-the-challenge">My Plan for the Challenge</h2>
+<ol>
+  <li>I will code for at least 1 hour every day for the next 100 days</li>
+  <li>I will tweet about my progress every day on my <a href="https://x.com/autodidactdiary">Twitter</a> account</li>
+  <li>I will update the <a href="log.md">log.md</a> file in this repo with the day’s progress and provide a commit link so that others can check my progress.</li>
+  <li>I will push a commit to this GitHub repo every day</li>
+  <li>I will work through FreeCodeCamp’s curriculum courses:
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Responsive Web Design</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />JavaScript Algorithms &amp; Data Structures</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Frontend Development Libraries</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Relational Databases</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Backend Development and APIs</li>
+    </ul>
+  </li>
+  <li>I will encourage at least two other people in the same challenge on Twitter every day</li>
+</ol>
+
+<h2 id="general-practice-plan">General Practice Plan</h2>
+
+<ul>
+  <li>25 minutes</li>
+  <li>5 minute break</li>
+  <li>25 minute</li>
+  <li>5 post-practice review</li>
+</ul>
+
+<h3 id="post-practice-review-questions">Post-Practice Review Questions</h3>
+
+<ol>
+  <li>What concepts did you learn from your practice session today?</li>
+  <li>Did you make any mistakes today? If so, are there any lessons you can derive from them?</li>
+  <li>Are there any concepts you feel unsure about? Is there anything you want to research or do more drills on?</li>
+  <li>Did you use any tutorial resources outside of FreeCodeCamp?</li>
+</ol>
+
+<h2 id="the-ultimate-goal">The Ultimate Goal</h2>
+<p>Build <a href="https://anthonyavelar.com/">anthonyavelar.com</a> into a portfolio website that has a cool 8-bit RPG videogame aesthetic!</p>
+
+<p>Design the website so that it has these features:</p>
+<ul>
+  <li>a splash page with a cool animated message to welcome visitors</li>
+  <li>a code projects section</li>
+  <li>an art gallery</li>
+  <li>a blog section</li>
+  <li>a contact form</li>
+</ul>
+
+<h1 id="twitter-hashtags-to-use">Twitter hashtags to use:</h1>
+<p>#100DaysOfCode
+#webdevelopment
+#learninpublic
+#autodidact</p>
+
+<h2 id="ideas-for-improving-how-i-chronicle-my-quest">Ideas for Improving How I Chronicle My Quest</h2>
+
+<ul>
+  <li>Record yourself while coding with ScreenRec</li>
+</ul>
+
+<p>If you record yourself, you can upload a short clip to Twitter! Just keep in mind, you can only upload a 140 second clip, and it can only be 512MB max!</p>
+
+<ul>
+  <li>Add interesting photos, screenshots and gifs</li>
+</ul>
+
+<p>Make it an entertaining and enjoyable experience for anyone who checks your log. Most challenges logs are text heavy and wordy. Make yours different by breaking up the text with images that show what you’re working on. Add screenshots of things such as your actual code, a work in progress, a finished site, and even memes to drive home points.</p>
+
+<ul>
+  <li>Create an introduction</li>
+</ul>
+
+<p>Make a short and sweet introduction of who you are and what your log. Doing this will help the viewer connect with you as a person!</p>
+
+<ul>
+  <li>Include links to live demos</li>
+</ul>
+
+<p>You can use CodePen to create live demos. Take the HTML, CSS and JavaScript code you create and create a new pen to display your work. Then copy the share link of your pen and include it in your log!</p>
+
+<ul>
+  <li>Create and pin a tweet that contains a link to your challenge log</li>
+</ul>
+
+<p>That way, anyone who sees your Twitter page will immediately have a link to your vivid coding journey.</p>
+
+<p><img src="https://i.postimg.cc/C1DBVBsy/Rulebook.jpg" alt="Rulebook.jpg" /></p>
+
+:ET
