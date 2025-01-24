@@ -22,8 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: Anthony Avelar # This should be your name
 avatar: headshot.png # This should be the file name of your avatar located in assets/images
 twitter_username:  autodidactdiary
-github_username:   MegaPing
-devto_username:    100daysof
+github_username:   digital-autodidact
 linkedin_username: anthony-avelar
 
 # Build settings
