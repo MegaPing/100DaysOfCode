@@ -1,37 +1,25 @@
 ---
 layout: post
-title:  the 100DaysOfCode Challenge
+title:  "Rules for the 100DaysOfCode Challenge"
 date:   2025-01-10 00:00:00 -0500
 categories: blog documentation
 tags: documentation
 image: https://i.postimg.cc/C1DBVBsy/Rulebook.jpg
 ---
 
-Hello again curious internet visitor! In this post, I intend to describe the details associated with my #100DaysOfCode challenge:
-- Public Commitment
-- SMART Goal Statement
-- Vision Snippet
-- The Why
-- The Strategy
-- The Daily Action
-- The Metric I'm Measuring
-- Checkpoints
-- Obstacles
-
-![Rulebook.jpg](https://i.postimg.cc/C1DBVBsy/Rulebook.jpg)
-
+In this post, I intend to describe the details associated with my #100DaysOfCode challenge!
 
 
 
 # Public Commitment
-**I, Anthony Avelar, commit myself to code for at least an hour every day for the next 100 days!**
+**I, Anthony Avelar, commit myself to completing the #100DaysOfCode Challenge by promising to code for at least 30 minutes every day for the next 100 days!**
 
 
 ## My Rules for the Challenge
-1. I will code for at least 1 hour every day for the next 100 days
-2. I will tweet about my progress every day on my [Twitter](https://x.com/autodidactdiary) account
-3. I will write an log entry every day to provide an update on the day's progress
-4. I will push a commit to my GitHub repo every day (and I'll provide a commit link in my log entries)
+1. I will code for at least 30 minutes every day for the next 100 days
+2. I will tweet an update about my progress every day on my [Twitter](https://x.com/autodidactdiary) account
+3. I will write a new log entry every day to provide an update on the day's progress
+4. I will push a commit to my #100DaysOfCode GitHub repo every day (and I'll include a link to that commit in my log entry)
 5. I will encourage two other people doing the same challenge on Twitter every day
 
 
@@ -82,17 +70,9 @@ Design the website so that it has these features:
 
 
 
-# Twitter hashtags to use:
-#100DaysOfCode
-
-#webdevelopment
-
-#learninpublic
-
-#autodidact
 
 
-## Ideas for Improving How I Chronicle My Challenge
+## Ideas for Chronicling The Challenge Better
 
 - Record yourself while coding with ScreenRec
 
@@ -118,3 +98,10 @@ You can use CodePen to create live demos. Take the HTML, CSS and JavaScript code
 
 That way, anyone who sees your Twitter page will immediately have a link to your coding journey. 
 
+
+- Use these hashtags in your tweets
+
+#100DaysOfCode
+#webdevelopment
+#learninpublic
+#autodidact
